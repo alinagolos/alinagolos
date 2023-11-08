@@ -23,6 +23,6 @@ I'm a beginner front-end developer. Nice to meet!
 
 ## Portfolio
 - https://alinagolos.github.io/testibrush/
-- https://alinagolos.github.io/AMBARWOOD/
+- https://alinagolos.github.io/ggplaytest/
 - https://alinagolos.github.io/Travlog/
 - https://alinagolos.github.io/turbo/
