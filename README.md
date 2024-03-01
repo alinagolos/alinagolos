@@ -14,6 +14,7 @@ I'm a beginner front-end developer. Nice to meet!
 ---
 
 ## Portfolio
+- https://alinagolos.github.io/yandex-test/
 - https://alinagolos.github.io/testibrush/
 - https://alinagolos.github.io/gallery/
 - https://alinagolos.github.io/ggplaytest/
